@@ -34,3 +34,7 @@ Provides the ability to run schematic commands through a terminal
 
 ## [Angular StackBlitz](https://stackblitz.com/edit/angular-ivy-ufvg2p)
 Tries to run the application right away in production mode
+
+
+## [Codesandbox](https://codesandbox.io/s/hopeful-carlos-czy4sk)
+Provides a node terminal that would provide devs a way to use schematics and more when demoing code
